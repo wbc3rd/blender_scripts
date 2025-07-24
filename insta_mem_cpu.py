@@ -1,3 +1,5 @@
+# script that shows how data travels from DRAM to CPU core in blender animation
+
 import bpy
 import mathutils
 
