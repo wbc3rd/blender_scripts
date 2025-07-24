@@ -1,3 +1,5 @@
+# script for blender animation showing GPU tensor core processing
+
 import bpy
 import math
 from mathutils import Vector
