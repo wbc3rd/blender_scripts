@@ -1,3 +1,5 @@
+# script that shows parallel processing in blender animation
+
 import bpy
 import math
 
